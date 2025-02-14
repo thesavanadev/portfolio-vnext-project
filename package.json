@@ -1,7 +1,7 @@
 {
-	"name": "payload-st-project",
-	"version": "3.0.0",
-	"description": "Template to get started with Next.js 15, Payload 3.0, MongoDB Tailwind CSS and shadcn/ui.",
+	"name": "portfolio-vnext-project",
+	"version": "2.0.0",
+	"description": "A modern portfolio with a Payload CMS backend by Michael Owuor.",
 	"type": "module",
 	"scripts": {
 		"build": "cross-env NODE_OPTIONS=--no-deprecation next build",

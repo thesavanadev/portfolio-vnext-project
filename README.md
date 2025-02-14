@@ -1,6 +1,6 @@
-# The [XXXXX] Project
+# The Portfolio Project
 
-Welcome to the repository for The [XXXXX] project. This repository houses the codebase for the dynamic and interactive website, showcasing our
+Welcome to the repository for The Portfolio project. This repository houses the codebase for the dynamic and interactive website, showcasing my
 commitment to excellence in web development.
 
 ## Table of Contents
@@ -14,8 +14,7 @@ commitment to excellence in web development.
 
 ## Introduction
 
-Superior Software Solutions is dedicated to transforming digital experiences. This website serves as a testament to our skills and commitment to
-delivering top-notch web solutions for clients.
+I through Superior Software Solutions is dedicated to transforming digital experiences. This website serves as a testament to my skills and commitment to delivering top-notch web solutions for clients.
 
 ## Features
 
@@ -44,4 +43,4 @@ We will eventually welcome contributions.
 
 This project is licensed under the MIT License.
 
-Thank you for being a part of The [XXXXX] website project... 🚀✨
+Thank you for being a part of The Portfolio website project... 🚀✨
